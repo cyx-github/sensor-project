@@ -1,3 +1,2 @@
-hello
-1 time
+console.log("hello world!")
 
